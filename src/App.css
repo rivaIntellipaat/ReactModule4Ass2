@@ -1,0 +1,40 @@
+label{
+  font-size:  18px;
+  margin-left: 3px;
+  margin-bottom: 4px;
+}
+input, textarea {
+  background-color: transparent;
+  border: 1px solid #656ED3 ;
+  width: 367px;
+  padding: 12px;
+  height: 34px;
+  border-radius: 50px;
+  margin-bottom: 10px;
+}
+textarea {
+  height: 108px;
+  border-radius: 10px;
+
+}
+button {
+  width: 365px;
+  height:  34px;
+  background-color: #656ED3;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  border-radius: 50px;
+  color: #AFB3FF;
+}
+
+button:hover {
+  color: aliceblue;
+}
+
+
+.inter {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
